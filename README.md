@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Uploading WhatsApp Image 2023-06-15 at 12.21.18 AM (1).jpeg…]()
 
-### Name:
-### Register Number:
+### Name:SHARAN MJ
+### Register Number:212222240097
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
